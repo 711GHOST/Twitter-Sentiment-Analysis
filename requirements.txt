@@ -1,0 +1,5 @@
+protobuf==3.20.*
+tensorflow==2.7.0
+pandas
+scikit-learn
+nltk
